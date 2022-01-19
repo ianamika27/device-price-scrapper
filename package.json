@@ -1,0 +1,25 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "testEndpoint"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.2",
+    "aws-serverless-express": "^3.4.0",
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "currency-converter-lt": "^1.2.1",
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "json2xls": "^0.1.2",
+    "nodejs-currency-converter": "^1.0.2",
+    "q": "^1.5.1",
+    "underscore": "^1.13.2"
+  }
+}
